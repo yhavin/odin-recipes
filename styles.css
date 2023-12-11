@@ -1,0 +1,12 @@
+* {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+h1, h3 {
+  color: brown;
+}
+
+img {
+  width: 500px;
+  height: auto;
+}
